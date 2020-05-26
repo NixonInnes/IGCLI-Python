@@ -1,0 +1,12 @@
+NixonInnesDemo:
+  currency: USD
+  refresh: 5
+  tracked:
+  - CS.D.BITCOIN.CFD.IP
+  - CS.D.ETHUSD.CFD.IP
+__Identifier:
+  refresh: refresh rate in seconds
+  tracked:
+  - list
+  - of
+  - epics
